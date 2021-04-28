@@ -1,0 +1,16 @@
+#include "FiguraGeometrica.h"
+#include "sculptor.h"
+#include<cmath>
+#include<cstdlib>
+FiguraGeometrica::FiguraGeometrica()
+{
+    
+}
+
+FiguraGeometrica::~FiguraGeometrica()
+{
+    
+}
+void FiguraGeometrica::Drawn(Sculptor &t){
+
+}
